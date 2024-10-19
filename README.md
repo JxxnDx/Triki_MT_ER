@@ -5,5 +5,6 @@ Se hace mediante el uso de una máquina de Turing y un banco de expresiones regu
 
 También cuenta con una interfaz gráfica para que verifiques su funcionamiento y difrutes jugando!
 
+![Interfaz](interfaz.png)
 
 **Nota:** Se deben instalar las librerias automata-lib y pillow de python.
